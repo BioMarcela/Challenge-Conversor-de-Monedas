@@ -36,8 +36,7 @@ Aplicación de consola desarrollada en Java que permite convertir monedas en tie
 - Envía una solicitud HTTP GET.
 - Recibe la respuesta en formato JSON.
 - Extrae la tasa de cambio.
-
-Calcula y muestra el resultado.
+- Calcula y muestra el resultado.
 
 ## 👩‍💻 Autora
 
